@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CopyComplete
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.pdb
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

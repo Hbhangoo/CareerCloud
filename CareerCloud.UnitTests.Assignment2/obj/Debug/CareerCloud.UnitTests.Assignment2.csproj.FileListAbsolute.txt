@@ -1,0 +1,2 @@
+C:\Users\HP\Source\Repos\CareerCloud.UnitTests.Assignment2\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\CareerCloud.UnitTests.Assignment2\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
