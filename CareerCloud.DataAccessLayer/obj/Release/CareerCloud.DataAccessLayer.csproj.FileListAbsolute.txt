@@ -3,3 +3,4 @@ C:\Users\HP\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Release\Car
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Release\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Release\CareerCloud.DataAccessLayer.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Release\CareerCloud.DataAccessLayer.pdb
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Release\CareerCloud.DataAccessLayer.csprojAssemblyReference.cache

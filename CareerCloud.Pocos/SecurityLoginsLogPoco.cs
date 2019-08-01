@@ -21,6 +21,6 @@ namespace CareerCloud.Pocos
         [Column("Logon_Date")]
         public DateTime LogonDate { get; set; }
 
-
+        public virtual SecurityLoginPoco SecurityLogins { get; set; }
     }
 }

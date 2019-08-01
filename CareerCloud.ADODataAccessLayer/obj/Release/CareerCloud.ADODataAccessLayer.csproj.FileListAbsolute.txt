@@ -1,5 +1,3 @@
-C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Release\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
-C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Release\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -9,6 +7,8 @@ C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Release\
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Release\CareerCloud.Pocos.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Release\CareerCloud.DataAccessLayer.pdb
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Release\CareerCloud.Pocos.pdb
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Release\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Release\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Release\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Release\CareerCloud.ADODataAccessLayer.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Release\CareerCloud.ADODataAccessLayer.pdb

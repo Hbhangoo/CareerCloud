@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\source\\repos\\CareerCloud\\testing\\testing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "projectName": "CareerCloud.ADODataAccessLayer",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+        "projectName": "CareerCloud.DataAccessLayer",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectName": "CareerCloud.Pocos",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\CareerCloud\\testing\\testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CareerCloud\\testing\\testing.csproj",
+        "projectName": "testing",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\testing\\testing.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\CareerCloud.BusinessLogicLayer.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\CareerCloud.DataAccessLayer.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\CareerCloud.Pocos.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\CareerCloud.DataAccessLayer.pdb
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Release\CareerCloud.Pocos.pdb
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Release\CareerCloud.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Release\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Release\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Release\CareerCloud.BusinessLogicLayer.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Release\CareerCloud.BusinessLogicLayer.pdb

@@ -1,10 +1,9 @@
-C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Release\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
-C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Release\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.UnitTests.Assignment2.dll.config
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.UnitTests.Assignment2.dll
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.UnitTests.Assignment2.pdb
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.ADODataAccessLayer.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.DataAccessLayer.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.Pocos.dll
@@ -17,7 +16,8 @@ C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Relea
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.Pocos.pdb
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Release\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Release\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Release\CareerCloud.UnitTests.Assignment2.csproj.CopyComplete
-C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Release\CareerCloud.UnitTests.Assignment2.pdb
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Release\CareerCloud.UnitTests.Assignment2.dll
 C:\Users\HP\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Release\CareerCloud.UnitTests.Assignment2.pdb
